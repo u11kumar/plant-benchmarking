@@ -1,0 +1,10 @@
+plant,capacity_mw,units_config,plf_pct,shr_kcal_kwh,apc_pct,gcv_coal_kcal_kg,specific_oil_consumption_ml_kwh,energy_generated_mu,com_year,technology,in_workbook,scc_kg_kwh,age_years
+Jawaharpur,1320,2x660 MW,85.0,2049,5.75,3594,0.5,9856,2023,Supercritical,False,0.5701168614357263,1
+Obra-C,1320,2x660 MW,85.0,2182,6.25,3443,0.5,9856,2023,Supercritical,False,0.6337496369445251,1
+Anpara-B,1000,2x500 MW,85.0,2390,6.55,3516,0.5,7446,1994,Subcritical,False,0.679749715585893,30
+Harduaganj Extn. II,500,2x250 MW,85.0,2430,9.0,3715,0.5,3733,2012,Subcritical,False,0.6541049798115747,12
+Parichha Extn. II,500,2x250 MW,85.0,2430,9.0,3666,0.5,3733,2012,Subcritical,False,0.662847790507365,12
+Anpara-A,630,3x210 MW,85.0,2430,9.0,3440,0.5,4704,1987,Subcritical,True,0.7063953488372093,37
+Parichha Extn.,420,2x210 MW,85.0,2430,9.0,3713,0.5,3127,2006,Subcritical,True,0.6544573121465123,18
+Harduaganj,110,1x110 MW,60.0,2625,9.5,3715,2.5,580,1978,Subcritical,False,0.7065948855989233,46
+Obra-B,1000,5x200 MW,75.0,2755,9.7,3692,2.1,6588,1980,Subcritical,True,0.7462080173347779,44
